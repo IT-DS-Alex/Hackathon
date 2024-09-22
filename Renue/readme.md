@@ -1,8 +1,6 @@
 <h1 align="left">Детекция и трекинг мусора на ленте конвейера</a></h1>
 
-![click here](demo.gif)
-
-* [Отчёт по проделанной работе](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report.md)
+* [Репозиторий по проделанной работе](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt)
 
 <h2 style="font-size: 20px;">Описание</h2>
 В данном проекте команда дата-саентистов выполняет заказ для российской IT-компания "Renue" по разработке решения для отслеживания и последующей сортировки пластикового мусора на конвейерной ленте.
