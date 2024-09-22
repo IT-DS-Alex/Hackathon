@@ -81,7 +81,7 @@ annotations - флаг для сохранения аннотаций (`True` и
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
-* [Фёдор Сафонов](https://) - тимлид 
+* [Фёдор Сафонов](https://github.com/FedorSafonov) - тимлид 
 * [Илья Гурин](https://github.com/IlyaLion) 
 * [Дмитрий Ерыганов](https://github.com/Dnevvs)  
 * [Дина Гребенкина](https://github.com/DinaGreb) 
